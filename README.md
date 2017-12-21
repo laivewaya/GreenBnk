@@ -1,0 +1,2 @@
+# GreenBnk
+digital banking app
